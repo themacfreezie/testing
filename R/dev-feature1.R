@@ -1,3 +1,8 @@
+library(here)
+
+#set loc
+here()
+
 ## cheese
 a <- 2
 b <- c
